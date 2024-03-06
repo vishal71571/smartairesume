@@ -12,3 +12,4 @@ youtube-dl
 nltk
 pdfminer3
 spacy==2.3.5
+python==2.7
