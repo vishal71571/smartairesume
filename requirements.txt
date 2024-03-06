@@ -12,5 +12,7 @@ youtube-dl
 nltk
 pdfminer3
 spacy==2.3.5
+python-dev
+libxml2-dev
 
 
