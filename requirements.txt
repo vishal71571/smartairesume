@@ -1,4 +1,5 @@
 pdfminer3
+python==2.5
 pyresparser
 streamlit
 pandas
